@@ -1,2 +1,2 @@
 Hello! I'm a frontend web developer.
-Want to learn more about me? Go to the page https://vasiljevdenis.github.io
+Want to know more about me? Go to https://vasiljevdenis.github.io
